@@ -1,2 +1,2 @@
 # haro-trust-governance
-Public approval records for Haro Factory. No source code or secrets.
+Public governance proposals and approval records for Haro Factory. No source code or secrets.
